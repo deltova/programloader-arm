@@ -1,15 +1,14 @@
-# Programm loader ARM
+# Program loader ARM
 
-Bare metal programm loader for the card STM32F4.
+Bare metal program loader for the card STM32F4.
 Do not use any library and use USART communication
-You can send program by uart using for example minicom. But the main goal of this repository is to
-show the flag to activate in order to do it.
+You can send program by uart using for example minicom.
 
 Realised for the ARM class and put on github by the authorization of the teacher
 
 ## BUILD
 
-You will a toolchain arm the root of the repo and thus modify the Makefile
+You will need a toolchain arm the root of the repo and thus modify the Makefile
 
 ## DEBUG
 
